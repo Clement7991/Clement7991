@@ -1,4 +1,4 @@
-<img style="float: right;" src="https://art.pixilart.com/9d54ee253ca2dec.gif" height="150" width="700">
+<img style="float: right;" src="https://art.pixilart.com/9d54ee253ca2dec.gif" height="150" width="900">
     <h1>Hi there !</h1>
     <p>
       A few words about me...
