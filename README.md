@@ -5,7 +5,11 @@
     </p>
     <br>
     <p>
-      🌱 I’m currently refining my ML skills and open for any opportunity in Data
+      :rocket: I’m new to all this and similarly to the little man above, I'm making my way...
+    </p>
+    <br>
+    <p>
+     🌱 Currently refining my ML skills and open for any opportunity in Data
     </p>
     <br>
     <p>
