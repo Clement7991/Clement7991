@@ -1,6 +1,4 @@
-### Hi there 👋
-
-![](https://1.bp.blogspot.com/-_Kg2_8vsWFU/YQsLnitx2II/AAAAAAAAhQg/j5Yz8EX6_w45x4cyXYOikDcYGAeleyhLwCLcBGAsYHQ/s0/play_large2.gif)
+(![Mario gif](https://art.pixilart.com/9d54ee253ca2dec.gif))
 
 
 <!--
