@@ -14,9 +14,11 @@
     <br>
     <p>
       🔭 I’m currently working on projects that: 
-        - could have saved lives had ML existed in 1912 :ship:
-        - could help with climate change :earth_americas:
-        - and many more to come...
+        <ul>
+          <li>could have saved lives had ML existed in 1912 :ship:</li>
+          <li>could help with climate change :earth_americas:</li>
+          <li>and many more to come...</li>
+        </ul>
     </p>
     <br>
     <p>
