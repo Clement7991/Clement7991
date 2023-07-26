@@ -1,8 +1,4 @@
-<div style="display: flex;">
-  <div style="flex: 1;">
-    <img src="https://art.pixilart.com/9d54ee253ca2dec.gif" alt="Your GIF" height="200">
-  </div>
-  <div style="flex: 2; padding-left: 20px;">
+<img style="float: right;" src="https://art.pixilart.com/9d54ee253ca2dec.gif">
     <h1>Hi there !</h1>
     <p>
       A few words about me...
