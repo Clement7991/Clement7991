@@ -1,4 +1,4 @@
-![Mario gif](https://art.pixilart.com/9d54ee253ca2dec.gif)
+<img src="https://art.pixilart.com/9d54ee253ca2dec.gif" height="200" alt="Your GIF">
 
 
 <!--
