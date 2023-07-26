@@ -1,8 +1,3 @@
-
-Apologies for the confusion. To position the image on the left and the text on the right, you'll need to use HTML within your Markdown file. Markdown alone doesn't provide native support for side-by-side layouts. Here's the updated code:
-
-html
-Copy code
 <div style="display: flex;">
   <div style="flex: 1;">
     <img src="https://art.pixilart.com/9d54ee253ca2dec.gif" alt="Your GIF" height="200">
