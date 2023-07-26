@@ -1,4 +1,4 @@
-<img src="https://art.pixilart.com/9d54ee253ca2dec.gif" height="200" alt="Your GIF">
+<img src="https://art.pixilart.com/9d54ee253ca2dec.gif" height="200" width="500" alt="Your GIF">
 
 
 <!--
