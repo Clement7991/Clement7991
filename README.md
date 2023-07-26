@@ -1,4 +1,4 @@
-(![Mario gif](https://art.pixilart.com/9d54ee253ca2dec.gif))
+![Mario gif](https://art.pixilart.com/9d54ee253ca2dec.gif)
 
 
 <!--
